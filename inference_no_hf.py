@@ -11,7 +11,7 @@ import warnings
 # 过滤掉特定的元参数复制警告
 warnings.filterwarnings("ignore", message=".*copying from a non-meta parameter.*")
 # 导入原版 LLaVA 相关的组件
-llava_project_root = "/mnt/workspace/group/zouxin/OPPO-main" 
+llava_project_root = "" 
 if llava_project_root not in sys.path:
     sys.path.insert(0, llava_project_root)
 
