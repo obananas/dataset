@@ -1,0 +1,1 @@
+{"id": 1, "image_path": "./Books/img_001.jpg", "category": "Books", "question": "Is this book related to Computers & Technology? Answer with the fewest words possible.", "gt_answer": "No", "pred_answer": "用户现在需要判断这本书是否和计算机与技术相关。看封面是关于烹饪（Birchwood Cafe Cookbook，还有食材如萝卜、鸡蛋等），属于美食/烹饪类，不是计算机技术。所以回答是否定的。要最少字，直接回答。\n</think>\nNo"}

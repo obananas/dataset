@@ -1,0 +1,2 @@
+{"id": 1, "question": "Example Q1", "gt_answer": "No", "pred_answer": "No", "image_path": "./Books/img_001.jpg", "category": "Books"}
+{"id": 2, "question": "Example Q2", "gt_answer": "2022", "pred_answer": "2008", "image_path": "./Business/img_001.jpg", "category": "Business"}
