@@ -2,12 +2,16 @@
 
 ## Repository Structure
 
-.
 ├── images/                 # Test image directory
+
 ├── images_archive_part_*.zip  # Compressed image archives
+
 ├── FactVQA.jsonl           # Dataset annotations (question-answer-image mapping)
+
 ├── *.py                    # Inference scripts for various models
+
 ├── results_*.jsonl         # Inference results from evaluated models
+
 └── README.md
 
 ## Supported Models
